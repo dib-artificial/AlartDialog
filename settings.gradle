@@ -1,0 +1,3 @@
+rootProject.name = "Alart dialog"
+include ':app'
+include ':alartDialog'
